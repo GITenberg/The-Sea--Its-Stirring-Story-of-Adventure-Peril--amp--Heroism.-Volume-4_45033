@@ -1,0 +1,27 @@
+_repo: The-Sea--Its-Stirring-Story-of-Adventure-Peril--amp--Heroism.-Volume-4_45033
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45033-tei/images/cover.jpg
+creator:
+  author:
+    agent_name: Whymper, Frederick
+    gutenberg_agent_id: '39978'
+    url: http://www.gutenberg.org/2009/agents/39978
+description: ''
+gutenberg_issued: '2014-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45033'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ocean'
+- !lcsh 'Adventure and adventurers'
+- !lcc 'GC'
+- !lcsh 'Arctic regions'
+- !lcsh 'Voyages around the world'
+title: 'The Sea: Its Stirring Story of Adventure, Peril, & Heroism. Volume 4'
+url: http://www.gutenberg.org/ebooks/45033
